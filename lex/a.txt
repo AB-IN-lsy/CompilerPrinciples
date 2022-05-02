@@ -1,0 +1,61 @@
+******************************************
+                词法分析器                  
+******************************************
+Line=  1,Column=  1 : 这是一个标识符 include
+Line=  1,Column=  9 : 这是一个标识符 cstdio
+Line=  2,Column=  1 : 这是一个标识符 define
+Line=  2,Column=  8 : 这是一个标识符 N
+Line=  2,Column= 15 : 这是一个int型 10000
+Line=  4,Column=  0 : 这是关键字 void
+Line=  4,Column=  5 : 这是关键字 main
+Line=  4,Column= 10 : 这是一个界符 (
+Line=  4,Column= 11 : 这是一个界符 )
+Line=  4,Column= 12 : 这是一个界符 {
+Line=  6,Column=  0 : 这是关键字 int
+Line=  6,Column=  4 : 这是一个标识符 i
+Line=  6,Column=  6 : 这是一个操作符 =
+Line=  6,Column=  7 : 这是一个int型 2
+Line=  6,Column=  8 : 这是一个界符 ;
+Line=  8,Column=  0 : 这是关键字 int
+Line=  8,Column=  4 : 这是一个标识符 j
+Line=  8,Column=  6 : 这是一个操作符 =
+Line=  8,Column=  7 : 这是一个int型 4
+Line=  8,Column=  8 : 这是一个界符 ;
+Line= 10,Column=  0 : 这是关键字 int
+Line= 10,Column=  4 : 这是一个标识符 result
+Line= 10,Column= 11 : 这是一个操作符 =
+Line= 10,Column= 12 : 这是一个int型 0
+Line= 10,Column= 13 : 这是一个界符 ;
+Line= 12,Column=  0 : 这是关键字 while
+Line= 12,Column=  6 : 这是一个界符 (
+Line= 12,Column=  6 : 这是一个标识符 i
+Line= 12,Column=  9 : 这是一个操作符 <=
+Line= 12,Column=  9 : 这是一个标识符 j
+Line= 12,Column= 11 : 这是一个界符 )
+Line= 12,Column= 12 : 这是一个界符 {
+Line= 14,Column=  0 : 这是一个标识符 result
+Line= 14,Column=  7 : 这是一个操作符 =
+Line= 14,Column=  7 : 这是一个标识符 result
+Line= 14,Column= 14 : 这是一个操作符 +
+Line= 14,Column= 14 : 这是一个标识符 j
+Line= 14,Column= 16 : 这是一个界符 ;
+Line= 16,Column=  0 : 这是一个标识符 i
+Line= 16,Column=  2 : 这是一个操作符 +
+Line= 16,Column=  3 : 这是一个操作符 +
+Line= 16,Column=  4 : 这是一个界符 ;
+Line= 18,Column=  1 : 这是一个界符 }
+Line= 20,Column=  0 : 这是一个标识符 printf
+Line= 20,Column=  7 : 这是一个界符 (
+Line= 20,Column=  8 : 这是一个界符 )
+Line= 20,Column=  9 : 这是一个界符 ;
+Line= 22,Column=  0 : 这是关键字 return
+Line= 22,Column=  7 : 这是一个标识符 result
+Line= 22,Column= 14 : 这是一个界符 ;
+Line= 24,Column=  0 : 这是一个注释 //注意，在 C- -中，这不是一个打印操作
+Line= 26,Column=  1 : 这是一个界符 }
+******************************************
+计数
+字符数:  207
+行数:   27
+字数:   22
+******************************************
